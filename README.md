@@ -283,6 +283,8 @@ npx degit sveltejs/template svelte-app
   Electron Svelte boilerplate
 - [chuanqisun/svelte-electron-template](https://github.com/chuanqisun/svelte-electron-template) -
   The bare minimum boilerplate to use Svelte in electron
+- [nye/svelte-electron-better-sqlite3-starter](https://github.com/nye/svelte-electron-better-sqlite3-starter) -
+  An starter to build Electron apps with Svelte and Better SQLite3
 
 ### mobile templates
 
